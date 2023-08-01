@@ -1,0 +1,27 @@
+{
+  "name": "arraybuffermath",
+  "version": "1.0.0",
+  "description": "ArrayBuffer Math/trig",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovp2023/arraybuffermath.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "OVP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovp2023/arraybuffermath/issues"
+  },
+  "homepage": "https://github.com/ovp2023/arraybuffermath#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.22.9",
+    "core-js": "^3.32.0",
+    "jest": "^29.6.2"
+  }
+}
